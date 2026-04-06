@@ -4,7 +4,7 @@ using namespace std;  // используемые библиотеки
 // кратно ли числу A сумма цифра двузначного числа
 
 int main() {
-    int number;       // Устоновка переменной number
+    int number;       // Установка переменной number
     cin >> number;    // Ввод числа
 
     number = (number);
